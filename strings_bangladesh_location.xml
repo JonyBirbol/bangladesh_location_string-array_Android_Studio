@@ -1,0 +1,116 @@
+<resources>
+  
+    <!-- Division of Bangladesh 08  -->
+    <string-array name="Division">
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Chittagong</item>
+        <item>Barishal</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+        <item>Mymensingh</item>
+    </string-array>
+
+
+ <!-- Districts of Bangladesh 64  -->
+
+    <!-- Dhaka Division 13 districts -->
+    <string-array name="Dhaka_Division">
+        <item>Dhaka</item>
+        <item>Narayanganj</item>
+        <item>Manikganj</item>
+        <item>Narsingdi</item>
+        <item>Shariatpur</item>
+        <item>Tangail</item>
+        <item>Munshiganj</item>
+        <item>Rajbari</item>
+        <item>Madaripur</item>
+        <item>Kishoreganj</item>
+        <item>Gopalganj</item>
+        <item>Gazipur</item>
+        <item>Faridpur</item>
+    </string-array>
+
+    <!-- Khulna Division 10 districts -->
+    <string-array name="Khulna_Division">
+        <item>Khulna</item>
+        <item>Bagerhat</item>
+        <item>Jashore</item>
+        <item>Satkhira</item>
+        <item>Jhenaidah</item>
+        <item>Narail</item>
+        <item>Meherpur</item>
+        <item>Chuadanga</item>
+        <item>Kushtia</item>
+        <item>Magura</item>
+    </string-array>
+
+    <!-- Chittagong Division 11 districts -->
+    <string-array name="Chittagong_Division">
+        <item>Chittagong</item>
+        <item>Brahmanbaria</item>
+        <item>Cumilla</item>
+        <item>Chandpur</item>
+        <item>Lakshmipur</item>
+        <item>Noakhali</item>
+        <item>Feni</item>
+        <item>Khagrachhari</item>
+        <item>Rangamati</item>
+        <item>Bandarban</item>
+        <item>Cox\'s Bazar</item>
+    </string-array>
+
+    <!-- Barishal Division 06 districts -->
+    <string-array name="Barishal_Division">
+        <item>Barishal</item>
+        <item>Barguna</item>
+        <item>Bhola</item>
+        <item>Jhalokati</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+    </string-array>
+
+    <!-- Rajshahi Division 08 districts -->
+    <string-array name="Rajshahi_Division">
+        <item>Rajshahi</item>
+        <item>Bogura</item>
+        <item>Chapainawabganj</item>
+        <item>Joypurhat</item>
+        <item>Naogaon</item>
+        <item>Natore</item>
+        <item>Pabna</item>
+        <item>Sirajganj</item>
+
+    </string-array>
+
+    <!-- Rangpur Division 08 districts -->
+    <string-array name="Rangpur_Division">
+        <item>Rangpur</item>
+        <item>Dinajpur</item>
+        <item>Kurigram</item>
+        <item>Nilphamari</item>
+        <item>Gaibandha</item>
+        <item>Thakurgaon</item>
+        <item>Panchagarh</item>
+        <item>Lalmonirhat</item>
+    </string-array>
+
+    <!-- Sylhet Division 04 districts -->
+    <string-array name="Sylhet_Division">
+        <item>Sylhet</item>
+        <item>Habiganj</item>
+        <item>Moulvibazar</item>
+        <item>Sunamganj</item>
+    </string-array>
+
+    <!-- Mymensingh Division 04 districts -->
+    <string-array name="Mymensingh_Division">
+        <item>Mymensingh</item>
+        <item>Netrokona</item>
+        <item>Jamalpur</item>
+        <item>Sherpur</item>
+    </string-array>
+
+
+</resources>
